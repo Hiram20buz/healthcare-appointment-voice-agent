@@ -11,3 +11,4 @@ docker-compose up --build -d
 
 
 
+<img width="2920" height="842" alt="image" src="https://github.com/user-attachments/assets/6b6261db-6a97-41b2-a574-7b78a82ed930" />
